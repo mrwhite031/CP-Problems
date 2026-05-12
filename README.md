@@ -1,6 +1,6 @@
-# Competitive Programming Solutions 🚀
+# Competitive Programming Solutions 🚀 
 
-## 👤 Riasitur Rahman Jiman
+## 👤 Riasitur Rahman Jiman 
 
 💻 Competitive Programmer  
 🎯 Preparing for ICPC & Software Engineering Internships  
