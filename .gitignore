@@ -1,0 +1,13 @@
+# Ignore compiled executables
+*.exe
+
+# Ignore folders containing large programs or setups
+/Microsoft VS Code/
+/setups/
+
+# Ignore Competitive Programming Helper (CPH) internal files
+.cph/
+
+# Ignore common Windows system files
+Thumbs.db
+Desktop.ini
