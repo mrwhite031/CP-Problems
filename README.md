@@ -1,4 +1,4 @@
-# Competitive Programming Solutions 🚀
+# Competitive Programming Solutions 🚀 
 
 ## 👤 Riasitur Rahman Jiman
 
