@@ -1,13 +1,3 @@
-# Competitive Programming Solutions 🚀 
-
-## 👤 Riasitur Rahman Jiman 
-
-💻 Competitive Programmer  
-🎯 Preparing for ICPC & Software Engineering Internships  
-🧠 Focused on strengthening Data Structures & Algorithms  
-
----
-
 ## 📌 About This Repository
 
 This repository contains my solutions to various competitive programming problems from multiple online judges.
