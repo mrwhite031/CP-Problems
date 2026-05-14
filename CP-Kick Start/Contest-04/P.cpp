@@ -6,6 +6,7 @@ int main(){
   while(t--){
     int x,y;
     cin>>x>>y;
-    
+    long long sum = x ^ y;
+    cout<<(sum & -sum)<<endl;
   }
 }
