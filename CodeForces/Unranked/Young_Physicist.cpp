@@ -1,14 +1,24 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
-int main(){
+
+int main()
+{
    int n;
-   cin>>n;
-   vector<int>num(n*n);
-   int ans = 0;
-   for(int i = 0; i < n*n; i++){
-      cin>>num[i];
-      ans += num[i];
+   cin >> n;
+
+   int sx = 0, sy = 0, sz = 0;
+
+   for (int i = 0; i < n; i++)
+   {
+      int x, y, z;
+      cin >> x >> y >> z;
+
+      sx += x;
+      sy += y;
+      sz += z;
    }
 
-   cout<<(ans == 0 ? "YES" : "NO")<<endl;
+   cout << (sx == 0 && sy == 0 && sz == 0 ? "YES" : "NO") << endl;
+
+   return 0;
 }
